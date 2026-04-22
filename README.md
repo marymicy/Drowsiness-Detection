@@ -29,7 +29,7 @@ $$EAR = \frac{||p_2 - p_6|| + ||p_3 - p_5||}{2||p_1 - p_4||}$$
 * `requirements.txt`: List of necessary Python dependencies.
 * `/assets`: Store demonstration screenshots or alarm sound files (`alarm.wav`) here.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 Ensure you have Python 3.x installed. You will also need a working webcam.
@@ -40,5 +40,8 @@ Clone the repository and install the required dependencies:
 git clone [https://github.com/marymicy/Drowsiness-Detection.git](https://github.com/marymicy/Drowsiness-Detection.git)
 cd Drowsiness-Detection
 pip install -r requirements.txt
+
+
+
 
 
