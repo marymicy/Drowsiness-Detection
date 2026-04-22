@@ -41,5 +41,4 @@ git clone [https://github.com/marymicy/Drowsiness-Detection.git](https://github.
 cd Drowsiness-Detection
 pip install -r requirements.txt
 
-**### 3.Running the Application**
-python driver_drowsiness.py
+
